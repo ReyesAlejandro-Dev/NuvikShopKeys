@@ -1,7 +1,8 @@
 # NuvikShop Keys
 
 <p align="center">
-  <img width="271" height="48" alt="Captura de pantalla 2026-01-02 112426" src="https://github.com/user-attachments/assets/1f992e29-c1d3-4636-98df-3c0d3510b0a1" alt="NuvikShop Keys Banner">
+  <img width="271" height="48" alt="Captura de pantalla 2026-01-02 112426" src="<img width="1094" height="365" alt="image" src="https://github.com/user-attachments/assets/9b9c87fc-562d-49ab-ae4f-64e623c2ddd5" />
+" alt="NuvikShop Keys Banner">
 </p>
 
 
