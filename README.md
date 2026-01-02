@@ -2,7 +2,6 @@
 
 <p align="center">
   <img width="271" height="48" alt="Captura de pantalla 2026-01-02 112426" src="https://github.com/user-attachments/assets/9b9c87fc-562d-49ab-ae4f-64e623c2ddd5" />
-" alt="NuvikShop Keys Banner">
 </p>
 
 
