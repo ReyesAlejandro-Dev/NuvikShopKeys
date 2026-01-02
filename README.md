@@ -1,8 +1,9 @@
 # NuvikShop Keys
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_BANNER_HERE.png" alt="NuvikShop Keys Banner">
+  <img width="271" height="48" alt="Captura de pantalla 2026-01-02 112426" src="https://github.com/user-attachments/assets/1f992e29-c1d3-4636-98df-3c0d3510b0a1" alt="NuvikShop Keys Banner">
 </p>
+
 
 <p align="center">
   <b>Sistema Profesional de Keys para tu Tienda de Minecraft</b><br>
